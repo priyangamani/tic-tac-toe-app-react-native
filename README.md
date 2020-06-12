@@ -5,6 +5,5 @@ Technology Used:
 4.Lamba Integration
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/Screenshot%202020-06-12%20at%209.35.55%20PM.png)](https://drive.google.com/file/d/1i12YVA4TpKhD-0pSapdVwCXOfejn3sd7/view)
 
-https://drive.google.com/file/d/1i12YVA4TpKhD-0pSapdVwCXOfejn3sd7/view
