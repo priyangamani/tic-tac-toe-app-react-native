@@ -35,6 +35,9 @@ npm run test (For Testing/ jest)
 ![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/lambda-function-areas.png)
 
 ![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/lambda-function-points.png)
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/dunamo-db-areas.png)
+
+
 
 
 https://drive.google.com/file/d/1i12YVA4TpKhD-0pSapdVwCXOfejn3sd7/view
