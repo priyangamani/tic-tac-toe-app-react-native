@@ -26,9 +26,10 @@ npm install if you using yarn
 
 yarn if all depedencies is installed, and than run it on android / ios
 
-for android react-native run-android
+npm start
 
-for ios react-native run-ios
+Open Expo then click the “Scan QR Code” and Scan the QR code in our terminal.
+
 
 test cases npm run test (For Testing/ jest)
 
