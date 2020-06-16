@@ -30,7 +30,7 @@ npm run test (For Testing/ jest)
 ![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/api-gateway-1.png)
 
 
-![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/Api-integration.png)
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/api-gateway-2.png)
 
 ![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/lambda-function-areas.png)
 
