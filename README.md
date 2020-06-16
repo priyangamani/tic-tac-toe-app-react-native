@@ -30,4 +30,9 @@ npm run test (For Testing/ jest)
 ![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/Api-gateway-1.png)
 
 
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/Api-integration.png)
+
+
+
+
 https://drive.google.com/file/d/1i12YVA4TpKhD-0pSapdVwCXOfejn3sd7/view
