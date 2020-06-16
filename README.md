@@ -36,18 +36,18 @@ https://c2unrksoz4.execute-api.eu-west-2.amazonaws.com/Dev
 https://lgy8uvpmv1.execute-api.eu-west-2.amazonaws.com/Dev
 
  AWS API (GET METHOD)
-![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/tree/master/aws-serverless-screenshots/api-gateway-1.png)
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/aws-serverless-screenshots/api-gateway-1.png)
 
  AWS API (GET METHOD EXECUTION)
 ![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/tree/master/aws-serverless-screenshots/api-gateway-2.png)
 
 (LAMDA FUNCTION)MANAGING SERVICES
-![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/tree/master/aws-serverless-screenshots/lambda-function-areas.png)
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/aws-serverless-screenshots/api-integration.png)
 
-![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/tree/master/aws-serverless-screenshots/lambda-function-points.png)
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/aws-serverless-screenshots/dunamo-db-areas.png)
 
 Amazon DynamoDB is a fully managed NoSQL database service 
-![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/tree/master/aws-serverless-screenshots/dunamo-db-areas.png)
+![alt text](https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/aws-serverless-screenshots/dynamo-db-points.png)
 
 (APP SCREENSHOTS)
 
