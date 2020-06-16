@@ -14,7 +14,7 @@ Technology Used:
 
 Demo App
 
-https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/TicTacToe.mov
+https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/app-demo-video/TicTacToe.mov
 
 Prerequisites
 Node.js >= v4 must be installed.
