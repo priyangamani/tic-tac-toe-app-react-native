@@ -12,22 +12,29 @@ Technology Used:
 3.AWS Dynamo DB.
 4.Lamba Integration
 
-Demo App
 
-https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/app-demo-video/TicTacToe.mov
+node and ( npm or yarn )
+
+git clone https://github.com/priyangamani/tic-tac-toe-app-react-native
 
 Prerequisites
 Node.js >= v4 must be installed.
 
-Installation
-Running npm install in the app's root directory will install everything you need for development.
+cd tic-tac-toe-app-react-native if you using npm
 
-To create a development build, set the NODE_ENV environment variable to development while running this command.
+npm install if you using yarn
 
-npm run clean will delete built resources.
+yarn if all depedencies is installed, and than run it on android / ios
 
-npm run test (For Testing/ jest)
+for android react-native run-android
 
+for ios react-native run-ios
+
+test cases npm run test (For Testing/ jest)
+
+Demo App
+
+https://github.com/priyangamani/tic-tac-toe-app-react-native/blob/master/app-demo-video/TicTacToe.mov
 
 API:(AWS Server Call)
 
