@@ -12,7 +12,10 @@ Installation
 Running npm install in the app's root directory will install everything you need for development.
 
 API:(Server Call)
+
 https://c2unrksoz4.execute-api.eu-west-2.amazonaws.com/Dev
+
+
 https://lgy8uvpmv1.execute-api.eu-west-2.amazonaws.com/Dev
 
 
