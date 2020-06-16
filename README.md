@@ -11,7 +11,7 @@ Node.js >= v4 must be installed.
 Installation
 Running npm install in the app's root directory will install everything you need for development.
 
-API:(Server Call)
+API:(AWS Server Call)
 
 https://c2unrksoz4.execute-api.eu-west-2.amazonaws.com/Dev
 
